@@ -36,3 +36,11 @@ http://localhost:5284/api/products
 http://localhost:5173/#/products
 
 ![Pic1](./screenshot.png)
+
+# Links
+
+https://jsonplaceholder.typicode.com/
+
+https://marmelab.com/react-admin/Vite.html
+
+https://react-admin.github.io/ra-enterprise/?path=/story/ra-editable-datagrid-editabledatagrid--confirm-delete
